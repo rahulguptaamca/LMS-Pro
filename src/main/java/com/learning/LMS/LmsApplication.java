@@ -1,4 +1,4 @@
-package com.rahul.LMS;
+package com.learning.LMS;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
